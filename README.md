@@ -2,16 +2,27 @@
 Step by step tutorial (GIT) / source -https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners:
 
 Step 1 is to install GIT and creat an accoutn for GITHUB.
+
 Step 2 is create a local git resposirty which can be foundin the middle "create resposirty"
+
 step 3 is add a new file to the reposirty
+
 Step 4 is Add a file to stagign enviorment
+
 Step 5 is Create a commit
+
 Step 6 is create a new branch
+
 Step 7 is create a new repository on GITHUB
+
 Step 8 is push a branch to GITHUB
+
 Step 9 is to create a pull request
+
 Step 10 is merge a pull request
+
 Step 11 is Get changes on GitHub back to your computer
+
 Step 12 is bask in your git glory
 WEBSTORM - is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node. js, HTML, and style sheets. source- https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
 
